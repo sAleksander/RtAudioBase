@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\szulc\Desktop\c++\RtAudioWorkingTest\RTAUDIO\rtaudio-master\BUILD\CMakeFiles\c4fda5ba57f2a5021694a3bc1be9c5c3\NightlyMemoryCheck.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\szulc\Desktop\c++\RtAudioWorkingTest\RTAUDIO\rtaudio-master\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\szulc\Desktop\c++\RtAudioWorkingTest\RTAUDIO\rtaudio-master\BUILD\CMakeFiles\NightlyMemoryCheck" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{481C2761-C730-326F-B896-FDC2704F99E5}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

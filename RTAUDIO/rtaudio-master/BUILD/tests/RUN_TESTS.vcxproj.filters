@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\szulc\Desktop\c++\RtAudioWorkingTest\RTAUDIO\rtaudio-master\BUILD\CMakeFiles\61243451d5ac30cfa83b6be7f39589db\RUN_TESTS_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{481C2761-C730-326F-B896-FDC2704F99E5}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
